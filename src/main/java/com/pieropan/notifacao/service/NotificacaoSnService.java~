@@ -1,0 +1,9 @@
+package com.pieropan.notifacao.service;
+
+import com.pieropan.notifacao.constante.MensagemConstante;
+
+public class NotificacaoSnService {
+    public void notificar(String mensagem){
+
+    }
+}
